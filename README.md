@@ -1,3 +1,3 @@
 # ReactReduxThunkExample
 Implement react with Redux thunk. More on this link ---> 
-https://alligator.io/redux/redux-thunk/
+https://github.com/stowball/dummys-guide-to-redux-and-thunk-react
